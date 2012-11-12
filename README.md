@@ -1,2 +1,0 @@
-grocerycrud-categories
-======================
